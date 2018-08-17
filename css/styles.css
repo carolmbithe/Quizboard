@@ -12,3 +12,10 @@ img{
      .clickable:hover {
        text-decoration: underline;
      }
+     .test-box {
+       text-align: center;
+       border:10px solid maroon;
+       padding: 7px;
+       margin: 20px;
+       background-color: pink;
+     }
