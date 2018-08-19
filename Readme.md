@@ -1,36 +1,36 @@
-#Project title
+# Project title
 Quizboard
-#Author name
+# Author name
 Caroline Mumo
-#Description of project
+# Description of project
 This application is a quiz that is intended for javascript students and after the completion of the quiz ,one is awarded the marks as per the performance
 
-#Deployment
+# Deployment
 You can get my livesite at gh-pages with this link
 
-#Project setup instructions
+# Project setup instructions
 You can install this app by cloning the repository from this link https://github.com/carolmbithe/Quizboard.git.
 
-#Known Bugs
+# Known Bugs
 There are no known bugs so far,everything is working.
 #Specifications
 it gives the results of the scoreResults
 example input
 example output
 
-#Technologies Used
+# Technologies Used
 Technologies used are:
 JavaScript-scripting language
 CSS-The stylesheet
 Bootstrap-The framework
 jquery-Library functions
 
-#Support and contact details
+# Support and contact details
  If any issues,questions,ideas and concerns are encountered,feel free to contact mumocaroline19@gmail.com
 
-#License
+# License
 This project is licensed under the MIT License
-#Copyright (c) 2018 Caroline Mumo
+# Copyright (c) 2018 Caroline Mumo
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
