@@ -1,8 +1,9 @@
 body{
   background-color:
 }
-img{
-  display: none
+#showing {
+       display: none;
+     }
 }
 .clickable {
        cursor: pointer;
