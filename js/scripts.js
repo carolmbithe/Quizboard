@@ -24,9 +24,9 @@ $("button").click(function() {
       var selPlace=parseInt($("input[name="place"]:checked").val()
       var selStatement=parseInt($("input[name="statement"]:checked").val()
 
-    var result = scoreResults(, loop);
+    var finalResult = scoreResults(selLanguage,selLoop,selElement,selPlace,selStatement);
 
-    $("#output").text(score);
+    $("#output").text(finalResult);
       });
 
        });
