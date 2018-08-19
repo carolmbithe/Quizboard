@@ -1,19 +1,21 @@
+//back-end logic
 var scoreResults=function(selLanguage,selLoop,selElement,selPlace,selStatement) {
   return selLanguage+selLoop+selElement+selPlace+selStatement;
 }
+//front end logic
 
-
-$(document).ready(function()
-$("button").click(function() {
+$(document).ready(function() {
+  $(".clickable").click(function() {
+      $(".show").slideUp();
+ $("button").click(function() {
   $(".btn1").click(function(){
-         $("p").fadeOut()
+         $(".p").fadeOut();
      });
      $(".btn2").click(function(){
-         $("p").fadeIn();
+         $(".p").fadeIn();
      });
-    $(".clickable").click(function() {
-        $("#showing").toggle();
-        $("#hidden").toggle();
+
+
       });
   $("form#scoreResults").submit(function(event) {
       event.preventDefault();

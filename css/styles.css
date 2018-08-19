@@ -2,17 +2,17 @@ body{
   background-color:
 }
 #showing {
-       display: none;
+       display:
      }
 }
 .clickable {
-       cursor: pointer;
-       color: #0088cc;
-     }
+        cursor: pointer;
+        color: #0088cc;
+      }
 
-     .clickable:hover {
-       text-decoration: underline;
-     }
+      .clickable:hover {
+        text-decoration: underline;
+      }
      .test-box {
        text-align: center;
        border:10px solid maroon;
