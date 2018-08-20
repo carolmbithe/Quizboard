@@ -15,8 +15,8 @@ You can install this app by cloning the repository from this link https://github
 There are no known bugs so far,everything is working.
 #Specifications
 it gives the results of the scoreResults
-example input
-example output
+example input: when you get the right answers each question gives you 20mks
+example output :you scored 100 marks
 
 #Technologies Used
 Technologies used are:
