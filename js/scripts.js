@@ -7,12 +7,12 @@ var scoreResults=function(selLanguage,selLoop,selElement,selPlace,selStatement) 
 $(document).ready(function() {
   $(".clickable").click(function() {
       $(".show").slideUp();
-// $("button").click(function() {
-//  $(".btn1").click(function(){
-  //       $(".p").fadeOut();
-  //   });
-  //   $(".btn2").click(function(){
-//         $(".p").fadeIn();
+//$("button").click(function() {
+// $(".btn1").click(function(){
+      //  $("h2").fadeOut();
+    // });
+    //$(".btn2").click(function(){
+      //   $("h2").fadeIn();
      });
      $("form#scoreResults").submit(function(event) {
 
