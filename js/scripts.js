@@ -7,6 +7,8 @@ var scoreResults=function(selLanguage,selLoop,selElement,selPlace,selStatement) 
 $(document).ready(function() {
   $(".clickable").click(function() {
       $(".show").slideUp();
+    
+
 //$("button").click(function() {
 // $(".btn1").click(function(){
       //  $("h2").fadeOut();
@@ -24,7 +26,7 @@ $(document).ready(function() {
          var selPlace=parseInt($("input[name=" + place + "]:checked").val());
          var selStatement=parseInt($("input[name=" + statement +"]:checked").val());
 
-         console.log(selLanguage);
+
 
        var finalResult = scoreResults(selLanguage,selLoop,selElement,selPlace,selStatement);
 
