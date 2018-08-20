@@ -6,7 +6,7 @@ Caroline Mumo
 This application is a quiz that is intended for javascript students and after the completion of the quiz ,one is awarded the marks as per the performance
 
 # Deployment
-You can get my livesite at gh-pages with this link
+You can get my livesite at gh-pages with this link https://carolmbithe.github.io/Quizboard/
 
 # Project setup instructions
 You can install this app by cloning the repository from this link https://github.com/carolmbithe/Quizboard.git.
@@ -16,7 +16,7 @@ There are no known bugs so far,everything is working.
 #Specifications
 it gives the results of the scoreResults
 example input: when you get the right answers each question gives you 20mks
-example output :you scored 100 marks
+example output :you scored this score out of 100 marks 
 
 # Technologies Used
 Technologies used are:
